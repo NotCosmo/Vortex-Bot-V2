@@ -1,5 +1,7 @@
 from utility.bot import Vortex
 
+# test
+
 def main() -> None:
     bot = Vortex()
     bot.remove_command("help")
