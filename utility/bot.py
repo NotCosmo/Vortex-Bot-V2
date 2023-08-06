@@ -75,4 +75,5 @@ class Vortex(Bot):
 
     # Events
     async def on_ready(self) -> None:
+        await super().change_presence(status=nextcord.Status.online, activity=nextcord.Activity(type=nextcord.ActivityType.playing, name="Bot Rewrite Soon!"))
         logging.info(f"ready as {self.user} / {self.user.id}")

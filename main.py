@@ -1,3 +1,4 @@
+import nextcord
 from utility.bot import Vortex
 
 def main() -> None:
