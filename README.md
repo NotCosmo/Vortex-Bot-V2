@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="src/assets/images/logo.png" alt="Vortex-logo" width="100"/> <br>
-  <img src="src/assets/images/vortex.png" alt="Vortex" width="400"/>
+  <img src="assets/images/logo.png" alt="Vortex-logo" width="100"/> <br>
+  <img src="assets/images/vortex.png" alt="Vortex" width="400"/>
 </p>
 
 <p align="center">
